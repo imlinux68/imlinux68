@@ -26,7 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imlinux68&show_icons=true&locale=en" alt="imlinux68" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imlinux68&" alt="imlinux68" /></p>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=imlinux68&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=imlinux68&theme=default" />
