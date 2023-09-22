@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AWS cloud solutions**
 
-- 🌱 I’m currently learning **AWS RE/start**
+- 🌱 I’m currently learning **CKA**
 
 - 💬 Ask me about **linux, bash, docker, git, ansible**
 
